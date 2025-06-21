@@ -1,0 +1,141 @@
+.index{
+    background-image: url("./assets/love_log.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+}
+
+#log{
+    font-size: 30px;
+}
+
+#login{
+    margin: 100px 0px 0px 100px;
+    height: 450px;
+    width: 600px;
+    /* border: 2px solid black; */
+}
+
+.lines{
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.input{
+    height:50px;
+    width:500px;
+    font-size: 20px;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.input:focus{
+    background-color:lightpink;
+}
+
+#login_style{
+    text-decoration: none; 
+}
+
+#login_button{
+    padding: 1px 20px;
+    margin-left: 400px;
+    border-radius: 15%;
+}
+
+#login_button:hover{
+    background-color: red;
+    color: aqua;
+}
+
+#word{
+    justify-content: space-between;
+}
+
+.words{
+    margin-left:20px;
+    display: inline-block;
+    font-size: 25px;
+}
+#forget{
+    margin-left:100px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------ */
+.index1{
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color:black;
+}
+
+#nav_bar{
+    margin-top: 0px;;
+    background-color: pink;
+}
+.link{
+    font-size:20px;
+    color: blue;
+    text-decoration: none; 
+}
+#selected{
+    color:red;
+    font-size:25px;
+}
+.link:hover{
+    font-size:25px;
+}
+
+.movies{
+    display:flex;
+    justify-content: space-around;
+}
+
+#movie1{
+    height:250px;
+    width:300px;
+}
+
+
+#movie1{
+    height:250px;
+    width:300px;
+}
+/* ------------------------------------------------------------------------------------- */
+/* three
+joe
+sita ramam
+dear comrade */
+
+#event1:hover{
+   transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+#event2:hover{
+   transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+#event3:hover{
+   transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+#event4:hover{
+   transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+/* ------------------------------------------------------------------------------------------------- */
+
+tr,td{
+    /* border: 1px solid black; */
+    padding: 20px;
+    text-align: center;
+}
